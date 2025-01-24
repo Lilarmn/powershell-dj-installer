@@ -34,8 +34,27 @@ To install the **DJ Bash Installer** script:
    ```bash
    ./install_dj.sh
 
-
 3. **Profile Update: The script will automatically update your PowerShell profile to add the dj function. After running the script, reload your profile with the following command:**:
    ```bash
    . $PROFILE
+
+3. **Usage**:
+   ```bash
+    dj mm           # Run makemigrations
+    dj m            # Run migrate
+    dj run          # Run the Django development server
+    dj sa <appname>  # Start a new Django app
+    dj cs           # Create a Django superuser
+
+
+##Coming soon for Linux :)
+
+---
+
+### Steps to Follow on GitHub:
+1. **Repository Name**: Name your repository (e.g., `powershell-dj-installer`).
+2. **Add the README File**: Paste the above content into a `README.md` file in your GitHub repository.
+3. **Commit**: Push the changes to GitHub to make the documentation available.
+
+This README is designed for a GitHub repository and explains how to use and install the DJ Bash Installer script effectively.
 

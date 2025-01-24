@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the PowerShell profile path for macOS
+# Define the PowerShell profile path for Linux
 PROFILE_PATH="$HOME/.config/powershell/Microsoft.PowerShell_profile.ps1"
 
 # Define the function to add to the profile

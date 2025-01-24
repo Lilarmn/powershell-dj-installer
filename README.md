@@ -46,7 +46,6 @@ To install the **DJ Bash Installer** script:
     dj sa <appname>  # Start a new Django app
     dj cs           # Create a Django superuser
 
-
 ##Coming soon for Linux :)
 
 ---

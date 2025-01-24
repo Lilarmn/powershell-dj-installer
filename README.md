@@ -5,4 +5,16 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-A script that installs and configures a custom PowerShell function dj to easily run common Django management commands such as makemigrations, migrate, runserver, and more.
+Description
+The DJ Bash Installer automates the installation of a custom Bash function called dj, designed to simplify common Django management commands. This function allows you to quickly run commands like makemigrations, migrate, runserver, and more — all through a simple command in your terminal.
+
+Features
+Automatically installs and configures the dj function.
+Supports common Django management commands like:
+makemigrations (mm)
+migrate (m)
+runserver (run)
+startapp (sa)
+createsuperuser (cs)
+Adds the function to the PowerShell profile if it doesn’t already exist.
+Ensures seamless integration with your development environment.
